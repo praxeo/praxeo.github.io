@@ -2,7 +2,7 @@ style: is-light
 items:
   - title: Web Development
     subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
+    icon: fa-gear fa-spin
   - title: Systems Integration
     subtitle: Layouts for blog and post pages included
     icon: fa-mail-bulk
