@@ -5,7 +5,7 @@ items:
     icon: fa fa-globe
   - title: Systems Integration
     subtitle: Talend, Java, Python
-    icon: fa fa-gear fa-spin
+    icon: fa fa-cog fa-spin
   - title: Linux Administration
     subtitle: Linux+ Certified
     icon: fa fa-linux
