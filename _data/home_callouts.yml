@@ -2,10 +2,10 @@ style: is-light
 items:
   - title: Web Development
     subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-gear fa-spin
+    icon: fa-globe
   - title: Systems Integration
     subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
+    icon: fa-gear fa-spin
   - title: Linux Administration
     subtitle: Quick and easy to get started
     icon: fa-linux
