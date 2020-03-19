@@ -1,11 +1,11 @@
 style: is-light
 items:
   - title: Web Development
-    subtitle: Including sidebar, menubar, tabs and callouts
+    subtitle: Ruby on Rails, Django, Flask, PHP, WordPress, Drupal
     icon: fa fa-globe
   - title: Systems Integration
-    subtitle: Layouts for blog and post pages included
+    subtitle: Talend, Java, Python
     icon: fa fa-gear fa-spin
   - title: Linux Administration
-    subtitle: Quick and easy to get started
+    subtitle: Linux+ Certified
     icon: fa fa-linux
