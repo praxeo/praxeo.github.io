@@ -3,7 +3,7 @@ theme: jekyll-theme-slate
 
 # Site settings
 title: Benjamin J. Thompson
-description: A blog about lorem ipsum dolor sit amet
+description: I am a software developer specializing in web development, data integrations, automation and Linux system administration.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "praxeo.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
