@@ -8,4 +8,4 @@ items:
     icon: fa fa-cog fa-spin
   - title: Linux Administration
     subtitle: Linux+ Certified
-    icon: fa fa-linux
+    icon: fab fa-linux
