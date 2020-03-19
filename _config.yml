@@ -1,5 +1,5 @@
-#theme: jekyll-theme-cayman
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: jekyll-theme-slate
+#remote_theme: chrisrhymes/bulma-clean-theme
 
 # Site settings
 title: Benjamin J. Thompson
