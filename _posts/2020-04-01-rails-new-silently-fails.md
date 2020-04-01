@@ -23,7 +23,7 @@ total 4
 -rw-rw-rw- 1 bjt bjt  130 Apr  1 11:16 config.ru
 {% endhighlight %}
 
-As you can see, Rails never complained, yet almost everything is missing. Without an error message, this was a real head-scratcher for me at first, although the observant reader might notice the hint in the last thing Rails executs before bailing out to the shell.
+As you can see, Rails never complained, yet almost everything is missing. Without an error message, this was a real head-scratcher for me at first, although the observant reader might notice the hint in the last thing Rails executes before bailing out to the shell.
 
 Fortunately, the solution is simple. The only problem is that the system is either missing Git or doesn't have it in the user's `PATH`. Installing the `git` package with your Linux distribution's package manager normally does the trick.
 
