@@ -33,7 +33,7 @@ $ sudo apt-get install git
 
 Or if you have git in a custom location, just add it to your path.
 {% highlight shell %}
-$ export PATH="/custom/location/git:$PATH"
+$ export PATH="/custom/location/:$PATH"
 {% endhighlight %}
 
 And in other good news, this was noticed by the devs and is [fixed in version 6](https://github.com/rails/rails/issues/38035).
