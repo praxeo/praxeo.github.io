@@ -5,7 +5,7 @@ author:
   email: bjt@rabidquill.com
 description: I am a software developer specializing in web development, data integrations, automation and Linux system administration.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "www.one-ping-only.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://www.one-ping-only.com" 
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -20,7 +20,7 @@ minima:
     github:  praxeo
     # devto: jekyll
     # dribbble: jekyll
-    facebook: RabidQuill
+    facebook: One-Ping-Only-110174943971360
     # flickr:   jekyll
     # instagram: jekyll
     linkedin: benthompsonelkhart
