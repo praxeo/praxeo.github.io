@@ -1,11 +1,11 @@
 # Site settings
-title: Indefinite Objects
+title: One Ping Only
 author:
   name: Benjamin J. Thompson
   email: bjt@rabidquill.com
 description: I am a software developer specializing in web development, data integrations, automation and Linux system administration.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "praxeo.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "www.one-ping-only.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
